@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/rajdeep saxena" target="blank"><img src="https://img.shields.io/twitter/follow/rajdeep saxena?logo=twitter&style=for-the-badge" alt="rajdeep saxena" /></a> </p>
 
-- 🔭 I’m currently working on **Impression Tracker**
 
 - 🌱 I’m currently learning **different frameworks also APIs**
 
